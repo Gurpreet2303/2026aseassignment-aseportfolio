@@ -1,0 +1,14 @@
+C:\Users\c7507953\Lab05_Interfaces\bin\Debug\net10.0\Lab05_Interfaces.exe
+C:\Users\c7507953\Lab05_Interfaces\bin\Debug\net10.0\Lab05_Interfaces.deps.json
+C:\Users\c7507953\Lab05_Interfaces\bin\Debug\net10.0\Lab05_Interfaces.runtimeconfig.json
+C:\Users\c7507953\Lab05_Interfaces\bin\Debug\net10.0\Lab05_Interfaces.dll
+C:\Users\c7507953\Lab05_Interfaces\bin\Debug\net10.0\Lab05_Interfaces.pdb
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\Lab05_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\Lab05_Interfaces.AssemblyInfoInputs.cache
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\Lab05_Interfaces.AssemblyInfo.cs
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\Lab05_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\Lab05_Interfaces.dll
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\refint\Lab05_Interfaces.dll
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\Lab05_Interfaces.pdb
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\Lab05_Interfaces.genruntimeconfig.cache
+C:\Users\c7507953\Lab05_Interfaces\obj\Debug\net10.0\ref\Lab05_Interfaces.dll

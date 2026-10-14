@@ -1,0 +1,14 @@
+C:\Users\c7507953\Lab04_OOConcepts\bin\Debug\net10.0\Lab04_OOConcepts.exe
+C:\Users\c7507953\Lab04_OOConcepts\bin\Debug\net10.0\Lab04_OOConcepts.deps.json
+C:\Users\c7507953\Lab04_OOConcepts\bin\Debug\net10.0\Lab04_OOConcepts.runtimeconfig.json
+C:\Users\c7507953\Lab04_OOConcepts\bin\Debug\net10.0\Lab04_OOConcepts.dll
+C:\Users\c7507953\Lab04_OOConcepts\bin\Debug\net10.0\Lab04_OOConcepts.pdb
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\Lab04_OOConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\Lab04_OOConcepts.AssemblyInfoInputs.cache
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\Lab04_OOConcepts.AssemblyInfo.cs
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\Lab04_OOConcepts.csproj.CoreCompileInputs.cache
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\Lab04_OOConcepts.dll
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\refint\Lab04_OOConcepts.dll
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\Lab04_OOConcepts.pdb
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\Lab04_OOConcepts.genruntimeconfig.cache
+C:\Users\c7507953\Lab04_OOConcepts\obj\Debug\net10.0\ref\Lab04_OOConcepts.dll
