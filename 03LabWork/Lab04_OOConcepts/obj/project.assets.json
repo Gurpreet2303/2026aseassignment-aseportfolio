@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c7507953\\Lab04_OOConcepts\\Lab04_OOConcepts.csproj",
+      "projectUniqueName": "C:\\Users\\c7507953\\03LabWork\\03LabWork\\Lab04_OOConcepts\\Lab04_OOConcepts.csproj",
       "projectName": "Lab04_OOConcepts",
-      "projectPath": "C:\\Users\\c7507953\\Lab04_OOConcepts\\Lab04_OOConcepts.csproj",
+      "projectPath": "C:\\Users\\c7507953\\03LabWork\\03LabWork\\Lab04_OOConcepts\\Lab04_OOConcepts.csproj",
       "packagesPath": "C:\\Users\\c7507953\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c7507953\\Lab04_OOConcepts\\obj\\",
+      "outputPath": "C:\\Users\\c7507953\\03LabWork\\03LabWork\\Lab04_OOConcepts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

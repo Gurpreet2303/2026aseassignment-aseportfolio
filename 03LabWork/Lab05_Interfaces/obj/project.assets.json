@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c7507953\\Lab05_Interfaces\\Lab05_Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\c7507953\\03LabWork\\03LabWork\\Lab05_Interfaces\\Lab05_Interfaces.csproj",
       "projectName": "Lab05_Interfaces",
-      "projectPath": "C:\\Users\\c7507953\\Lab05_Interfaces\\Lab05_Interfaces.csproj",
+      "projectPath": "C:\\Users\\c7507953\\03LabWork\\03LabWork\\Lab05_Interfaces\\Lab05_Interfaces.csproj",
       "packagesPath": "C:\\Users\\c7507953\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c7507953\\Lab05_Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\c7507953\\03LabWork\\03LabWork\\Lab05_Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
